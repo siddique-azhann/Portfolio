@@ -1,4 +1,4 @@
-# [Personal Portfolio](http://azhan.me/)
+# [Personal Portfolio](https://azhan.me/)
 
 #### Tools and Technologies used in this project :-
 
@@ -9,8 +9,6 @@
 * Hosting - Github Pages
 * Domain - [Namecheap](https://namecheap.com)
 
-#### Note :-
-HTTPS is not yet deployed because of some issue. But soon it'll be available.
 
 ## License
 
